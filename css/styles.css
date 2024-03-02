@@ -97,7 +97,7 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: #dae3e1;
+  color: #474b4a;
   text-align: var(--bs-body-text-align);
   background-color: #dae3e1;
   -webkit-text-size-adjust: 100%;
@@ -7665,7 +7665,6 @@ textarea.form-control-lg {
 
 .mb-4 {
   margin-bottom: 1.5rem !important;
-  color: #2c3e50
 }
 
 .mb-5 {
