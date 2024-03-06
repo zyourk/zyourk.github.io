@@ -8041,7 +8041,7 @@ textarea.form-control-lg {
 
 .text-secondary {
   --bs-text-opacity: 1;
-  color: #fff !important;
+  color: #2c3e50 !important;
 }
 
 .text-success {
